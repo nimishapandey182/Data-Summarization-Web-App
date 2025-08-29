@@ -1,2 +1,5 @@
-# Data-Summarization-Web-App
-A web app built with Flask, HTML/CSS, and Hugging Face API that generates concise summaries of long text using NLP.
+# Data-Summarization
+
+Deployed:- https://arshdeep.pythonanywhere.com/
+
+"app.py" is the code for data summarization. For using this code please clone this repo. as the structuring/documentation is very important. 
