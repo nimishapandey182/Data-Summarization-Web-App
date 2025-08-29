@@ -27,3 +27,6 @@ Quick summarization of articles, blogs, or reports.
 Helps students, researchers, and professionals save time.
 
 Useful for generating concise notes from lengthy documents.
+
+
+
