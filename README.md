@@ -30,4 +30,5 @@ Useful for generating concise notes from lengthy documents.
 
 ScreenShots:-
 
-
+<img width="1902" height="1032" alt="Screenshot 2025-09-03 114612" src="https://github.com/user-attachments/assets/bf34da88-3eae-40e7-9d97-94463b44132c" />
+<img width="1047" height="561" alt="Screenshot 2025-09-03 115040" src="https://github.com/user-attachments/assets/92c208c1-a9fa-4c8d-992b-142680485a38" />
